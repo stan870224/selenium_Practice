@@ -1,2 +1,5 @@
 #忽略config.json
 config.json
+
+#忽略__pycache__
+__pycache__\
