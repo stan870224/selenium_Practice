@@ -2,4 +2,4 @@
 config.json
 
 #忽略__pycache__
-__pycache__\
+__pycache__/
