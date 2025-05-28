@@ -1,5 +1,6 @@
 #忽略config.json
 config.json
 
-#忽略__pycache__
+#忽略資料夾
 __pycache__/
+downloads/
