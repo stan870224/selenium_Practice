@@ -4,3 +4,4 @@ config.json
 #忽略資料夾
 __pycache__/
 downloads/
+.idea/
